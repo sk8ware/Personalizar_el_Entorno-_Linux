@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Configuración Avanzada de Linux/9. Creación de Módulos Personalizados en Polybar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Configuración Avanzada de Linux/9. Creación de Módulos Personalizados en Polybar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Configuración Avanzada de Linux/9. Creación de Módulos Personalizados en Polybar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Configuración Avanzada de Linux/9. Creación de Módulos Personalizados en Polybar.md"
               }
             }
           }
@@ -149,7 +149,20 @@
   },
   "active": "77931568ebd51ec5",
   "lastOpenFiles": [
-    "Bienvenido.md",
-    "README.md"
+    "Atajos del entorno.png",
+    "Configuración Avanzada de Linux/11. Repaso y Optimización de Atajos Definidos.md",
+    "README.md",
+    "Configuración Avanzada de Linux/10. Integración y Configuración de NVChad en Neovim.md",
+    "Configuración Avanzada de Linux/9. Creación de Módulos Personalizados en Polybar.md",
+    "Configuración Avanzada de Linux/7. Instalación de Herramientas Adicionales.md",
+    "Configuración Avanzada de Linux/8. Configuración Avanzada de Polybar.md",
+    "Configuración Avanzada de Linux/6. Personalización de Shell.md",
+    "Configuración Avanzada de Linux/5. Ajustes de Composición Visual.md",
+    "Configuración Avanzada de Linux/2. Instalación de Barras y Compositores.md",
+    "Configuración Avanzada de Linux/4. Despliegue y Personalización de Polybar.md",
+    "Configuración Avanzada de Linux/3. Personalización de Fuentes y Terminales.md",
+    "Configuración Avanzada de Linux/1. Instalación y Configuración de Gestores de Ventanas.md",
+    "Configuración Avanzada de Linux",
+    "Bienvenido.md"
   ]
 }
